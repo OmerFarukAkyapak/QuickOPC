@@ -1,2 +1,2 @@
 # QuickOPC
-C# winformda farklı yollarla QOPC kullanımı
+C# winformda OPC prokolünün QOPC bileşeninin kullanımı
